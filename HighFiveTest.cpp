@@ -4,7 +4,7 @@
 #include <cstdint>
 #include <vector>
 
-// test of high five, needs the library
+// Test of high five, needs the library.
 
 int main() {
     HighFive::File file(file_name, HighFive::File::ReadWrite |
